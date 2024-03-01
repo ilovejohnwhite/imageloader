@@ -48,7 +48,7 @@ class TTKImageTracer:
                     },
                 }
 
-    CATEGORY = "TatToolkit/Billy Goncho's Wild Ride"
+    CATEGORY = "TatToolkit"
     ''' Return order:
         width(int), height(int)
     '''
