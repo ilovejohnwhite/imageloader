@@ -93,7 +93,3 @@ class TTKImageTracer:
             return "Invalid image file: {}".format(image)
 
         return True
-
-NODE_CLASS_MAPPINGS = {
-        "Image Load TTK": TTKImageTracer
-}
