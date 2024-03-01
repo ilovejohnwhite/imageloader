@@ -2,7 +2,7 @@ import importlib
 import os
 
 node_list = [ #Add list of .py files containing nodes here
-    "Extra Nodes"
+    "ttkimg"
 ]
 
 NODE_CLASS_MAPPINGS = {}
